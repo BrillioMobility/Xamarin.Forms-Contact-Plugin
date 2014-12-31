@@ -1,0 +1,8 @@
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\bin\Debug\Contacts.Forms.Plugin.Abstractions.dll
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\bin\Debug\Contacts.Forms.Plugin.Abstractions.pdb
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\bin\Debug\Xamarin.Forms.Core.dll
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\bin\Debug\Xamarin.Forms.Core.xml
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\obj\Debug\Contacts.Forms.Plugin.Abstractions.dll
+D:\Kirti\Plugins\Contacts\Contacts\Contacts.Forms.Plugin.Abstractions\obj\Debug\Contacts.Forms.Plugin.Abstractions.pdb
